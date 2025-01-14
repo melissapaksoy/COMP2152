@@ -8,8 +8,8 @@ print("Elements: ", elements)
 #     return True
 # def say_greeting(name, message="hi"):
 #     print(f" {message}, {name}")
-# say_greeting("Maziar")
-# say_greeting("Maziar", "Hello")
+# say_greeting("Melissa")
+# say_greeting("Melissa", "Hello")
 
 def get_valid_int_input(prompt):
     while True:
