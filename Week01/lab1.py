@@ -14,7 +14,7 @@ d=4
 
 e = ((a - ((b ** c) // d)) + (a % c))
 
-print(f"e = {e}")
+print(f"e = {e}") #prints 0
 
 #Formatting
 
@@ -23,4 +23,5 @@ print("The temperature is : {:.3f}  degrees Celsius.".format(temperature))
 
 #Common functions
 userAge = int(input("Please enter your age: "))
+userAge += 22
 print(f"Now showing the shop items filtered by age: {userAge}")
