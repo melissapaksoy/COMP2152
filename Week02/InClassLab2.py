@@ -24,7 +24,7 @@ try:
     elementRoll = random.randint(1, 6)
     totalNum = elements_selected + elementRoll
 
-    # Print the result based on the totalNum
+# Print the result based on the totalNum
     if elementRoll <= 2:
         print("You rolled a weak element, friend.")
     elif elementRoll <= 4:
