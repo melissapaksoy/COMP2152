@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec1ef91-c3d7-468a-b291-70febb902e3e" name="Changes" comment="Update guidelines with Python Zen">
-      <change beforePath="$PROJECT_DIR$/.idea/PycharnProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharnProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/lab2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/lab2inperson.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/InPersonLab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-codebases/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-codebases/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-codebases/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-codebases/lab2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,7 @@
     "Python.t.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Melissa__Paksoy__Open__Source",
     "last_opened_file_path": "/Users/goddessovdeath/Desktop/T177/SEMESTER 4/COMP2152/PycharmProjects/awesome-codebases",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,6 +98,7 @@
       <recent name="$PROJECT_DIR$/Week01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/awesome-codebases" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
